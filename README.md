@@ -1,4 +1,4 @@
-Hyper-V
+Hyper-Graphs
 =======
 
 Javascript library for visualization of Hyper Graphs with node draggable property.
